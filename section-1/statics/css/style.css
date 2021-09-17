@@ -1,0 +1,211 @@
+font-face{
+    font-family: "times new roman" , Serif;
+    src: url("../fonts/times.ttf") format("ttf") ;
+    font-weight: normal;
+    font-style: normal;
+    font-display:fallback;
+}
+.main-container {
+    position: relative;
+    bottom: 30px;
+    right: 5rem;
+    text-align: left;
+}
+.header {
+    background-color: #cc0066;
+    width: 1.875rem;
+    height: 1.25rem;
+    padding: 0.0625rem 0.9375rem 0.4375rem 0.4375rem;
+    border-radius: 0.1875rem;
+    float: right;
+    color: white ; text-align: center ; font-size: 19px
+}
+h1{
+    font-family: "Times New Roman",Serif;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 2rem;
+    width: 25ch;
+    margin-left: 5rem;
+
+}
+.line{
+
+    margin-left: 5rem;
+    margin-right: 5rem;
+    color: grey;
+}
+.icon1{width: 10px; height: 10px;
+    margin-top: 0.3rem;
+    margin-bottom: 0.2rem;
+    margin-left: 80px;
+}
+.t1{
+    font-family: "times new roman";
+    font-weight: lighter;
+    font-size: 0.3rem;
+    position: relative;
+    bottom: 0.65rem;
+    left: -0.2rem;
+}
+.icon2{width: 10px; height: 10px;
+    margin-left: 20px;
+    margin-bottom: 0.2rem;
+
+
+}
+.icon3{width: 10px; height: 10px;
+    margin-left: 20px;
+    margin-bottom: 0.2rem;}
+
+.icon4{width: 10px; height: 10px;
+    margin-left: 20px;
+    margin-bottom: 0.2rem;
+}
+p{
+    font-family: "Agency FB";
+    margin-left: 5rem;
+margin-right: 5rem;
+font-size: 0.5rem;
+font-weight: bold;}
+.avatar{margin-left: 5rem;
+margin-right: 5rem;
+}
+h3{font-family: "Agency FB";
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-size: 0.5rem;
+    color: grey;
+
+}
+h4{font-family: "Agency FB";
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-size: 0.5rem;
+    color: darkgrey;}
+h5{
+    font-family: "Agency FB", serif;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-size: 0.5rem;
+    color: lavender;}
+p2{font-size: 0.4rem;
+position: relative; bottom: 0.4rem;}
+.icon5{
+    height:1rem;
+    width: 1rem;
+    display: inline-block;
+    border-radius: 0.125rem;
+position: relative; top: 0.2rem;}
+.t3{font-size: 0.4rem;
+position: relative;
+bottom: 0.25rem;
+}
+.divider2{
+    border: 0.56px solid blueviolet;
+    padding: 0.05%;
+    background-color: #4B2389;
+    position: relative;
+    left: 5rem;
+bottom: 10rem;
+    color: white;
+    font-weight: bold;}
+.space{margin-right:12rem;}
+.icon6{
+    margin-top: 10.5rem;
+position: relative; top: 0.2rem;}
+.divider3{
+    border: 0.56px solid green;
+    padding: 0.05%;
+    background-color: green;
+    position: relative;
+    left: 5.2rem;
+    bottom:  10rem;
+    font-weight: bold;}
+.t4{font-size: 0.4rem;
+position: relative;
+    bottom: 0.25rem;
+    left: -0.1rem;
+    color: white;}
+.divider4{border: 0.56px solid dodgerblue;
+    padding: 0.05%;
+    background-color: dodgerblue;
+    position: relative;
+    left: 5.4rem;
+    bottom:  10rem;
+    font-weight: bold;
+}
+
+.t5{font-size: 0.4rem;
+color: white;
+position: relative;bottom: 0.2rem;
+left: -0.1rem;}
+.divider5{border: 0.56px solid dodgerblue;
+    padding: 0.05%;
+    background-color: #1E43BB;
+    position: relative;
+    left: 5.6rem;
+    bottom:  10rem;
+    font-weight: bold;}
+.divider6{border: 0.02rem solid #DB221C;
+    padding: 0.05%;
+    background-color: #DB221C;
+    position: relative;
+    left: 5.8rem;
+    bottom:  10rem;
+    font-weight: bold;}
+.chest{
+    background-color:#DFE1E1;
+width:75%;  height: 3rem;         position:relative; bottom: 9rem;  left:5rem;   margin-left: 0rem; margin-right: 5rem;}
+.icon7{width: 2.1rem;
+height: 2rem;
+border-radius: 80%;
+position: relative;
+top: 0.17rem;
+left: 1rem;}
+.t6{position: relative;
+left: 2.5rem;
+    bottom: 1.5rem;
+font-size: 0.5rem;}
+.t7{position: relative;
+    left: -5.9rem;
+    bottom: 0.5rem;
+    color: #B1B4B4;
+font-size: 0.5rem;
+margin-left: 5rem;}
+.icon8{float:left;   display:block;    position:relative; left:5.2rem; bottom:8.9rem;}
+.t8{float:left;  display: block;
+    font-size:0.4rem;
+    color: grey;
+    position: relative;
+left:5.3rem;   bottom:8.9rem;
+}
+.t9{font-size: 0.4rem;
+position: relative;
+left: 4.5rem;
+bottom: 8.5rem;}
+.icon9{clear:both; float:right; display:block; position: relative;
+    right: 5.17rem;
+    bottom: 10.3rem}
+.t10{clear:both; float:right;  font-size: 0.4rem;
+    position: relative;
+    right: 6.579rem;
+    bottom: 11.85rem;
+    color: grey;}
+.t11{clear:both; float:right;  font-size: 0.4rem;
+    position: relative;
+    right: 6.579rem;
+    bottom:11.5rem;
+    color: black;
+   }
+@media screen and (max-width:710px) {
+    h3,h4,h5,p ,t7{
+        font-size: 1.2rem;
+    }}
+
+@media screen and (max-width:360px){
+    h3, h4, h5,p ,t7{
+        font-size: 0.5rem;
+    }
+}
